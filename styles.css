@@ -119,4 +119,7 @@ input:focus {
 
 .formbottom > button:hover {
     cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.438);
+    color: #ccc;
+    border: 2px solid #ccc;
 }
